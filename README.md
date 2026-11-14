@@ -241,4 +241,4 @@ The Culling is available as a full free version with all features and updates in
 Ready to prove your survival skills? Download The Culling now and immerse yourself in the ultimate Battle Royale experience!
 
 ---
-**Last updated:** 2026-11-13 23:59:22 UTC
+**Last updated:** 2026-11-14 05:11:14 UTC
